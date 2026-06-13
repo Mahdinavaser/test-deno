@@ -1,0 +1,10 @@
+trojan://1db7dd50-6753-11f1-bfe3-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://92f18e40-6753-11f1-b464-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://c2772100-6753-11f1-a671-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://eac21130-6753-11f1-ab32-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://0ee20720-6754-11f1-9657-1239d0255272@news.microsoft.com:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy
+trojan://2e00a5a0-6754-11f1-a285-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://55dbfe00-6754-11f1-a9b3-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://92066050-6754-11f1-940e-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+trojan://c5414240-6754-11f1-b0d4-1239d0255272@news.microsoft.com:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy
+trojan://184b97e0-6755-11f1-a9d4-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
