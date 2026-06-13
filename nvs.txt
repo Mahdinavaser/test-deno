@@ -1,4 +1,4 @@
-vless://d93f8abd-2d61-e184-d315-55111d053bcf@ikco.ir:2082?type=ws&encryption=none&path=%2F&host=amo.arvhamrah.ir&security=none#me3o1kcnd2-10.00GB%F0%9F%93%8A
+vless://d93f8abd-2d61-e184-d315-55111d053bcf@ikco.ir:2082?type=ws&encryption=none&path=%2F&host=amo.arvhamrah.ir&security=none#me3o1kcnd2-B%F0%9F%93%8A
 trojan://d3f40430-671a-11f1-952f-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
 trojan://65dcdbd0-671a-11f1-a819-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
 trojan://41842e10-671a-11f1-9357-1239d0255272@news.microsoft.com:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy
@@ -6,3 +6,4 @@ trojan://dc065a30-6719-11f1-beff-1239d0255272@news.microsoft.com:443/?sni=usa.te
 trojan://b2be74e0-6719-11f1-83e1-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
 trojan://77b92d70-6719-11f1-a33d-1239d0255272@news.microsoft.com:443/?sni=usa.test3.net&type=ws&host=usa.test3.net&path=%2Fhowdy
 trojan://2f0f1530-6719-11f1-960f-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
+vless://deb407fd-b54b-4f44-834c-7e2551be86e3@de.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#new%20serverG-No
