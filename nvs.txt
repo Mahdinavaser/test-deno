@@ -15,3 +15,4 @@ trojan://63624340-6722-11f1-aefe-1239d0255272@news.microsoft.com:443/?sni=uk1.te
 trojan://b5103110-6722-11f1-affe-1239d0255272@news.microsoft.com:443/?sni=uk1.test3.net&type=ws&host=uk1.test3.net&path=%2Fhowdy
 vless://4fc1f700-3d17-4f28-86ec-6c09445ff828@vip.ertebatgoostar.ir:80?path=%2F&security=none&encryption=none&type=ws#super%20%F0%9F%92%8E%F0%9F%92%8E4Gib-Morteza
 vless://36f981b3-d0c0-4724-95e5-e0594a175976@s4.tehranionliine.ir:80?path=%2F&security=none&encryption=none&host=%2F&type=ws#%F0%9F%92%8Et6wJz2QvKR
+vless://36f981b3-d0c0-4724-95e5-e0594a175976@s4.tehranionliine.ir:80?type=ws&path=%2F&host=%2F&security=none#💎t6wJz2QvKR
